@@ -37,8 +37,8 @@
 1. [ArrayBuffer](#docs/arraybuffer)
 1. [最新提案](#docs/proposals)
 1. [Decorator](#docs/decorator)
-1. [参考链接](#docs/reference)
-1. [压缩测试](#docs/ys)
+1. [参考链接11](#docs/reference)
+1. [压缩测试111](#docs/ys)
 
 ## 其他
 - [源码](https://github.com/ruanyf/es6tutorial/)
