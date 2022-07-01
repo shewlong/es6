@@ -29,3 +29,4 @@
 * [26. ArrayBuffer](docs/arraybuffer.md)
 * [27. 最新提案](docs/proposals.md)
 * [28. 参考链接](docs/reference.md)
+* [29. 压缩测试](docs/ys.md)
